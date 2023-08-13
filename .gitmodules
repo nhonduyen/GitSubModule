@@ -1,0 +1,3 @@
+[submodule "demogit"]
+	path = demogit
+	url = https://github.com/nhonduyen/demogit.git
